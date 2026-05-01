@@ -1,4 +1,4 @@
-# 🚀 Reconfusion Engine v2.0
+# 🚀 Reconfusion Engine 
 
 **Reconfusion** is a high-accuracy subdomain reconnaissance and alive-probing engine designed for penetration testers and bug hunters. Unlike standard scanners that often miss targets due to WAF blocking or strict status-code filtering, Reconfusion is engineered for **100% detection accuracy** in hardened enterprise environments.
 
@@ -30,7 +30,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone [https://github.com/YOUR_USERNAME/reconfusion.git](https://github.com/YOUR_USERNAME/reconfusion.git)
+git clone [https://github.com/dipuhasan404/reconfusion.git](https://github.com/dipuhasan404/reconfusion.git)
 cd reconfusion
 
 2. Give execution permissions:
