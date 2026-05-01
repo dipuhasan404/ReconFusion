@@ -2,8 +2,9 @@
 
 ReconFusion is a lightweight Bash-based reconnaissance tool designed to automate subdomain enumeration and attack surface analysis. It integrates multiple industry-standard tools and provides a clean, visual CLI experience.
 
-### 📺 Bash Scripts Demo
-![Demo Screen](demo.png)
+## 📺 Demo
+<!-- Replace the link below with your asciinema link once you record it! -->
+[![asciicast] (https://asciinema.org/connect/10a0744b-5fea-473d-b03b-f8785c62526d)
 
 ## 🌟 Key Features
 *   **Multi-Source Discovery**: Combines results from Subfinder, Assetfinder, and Sublist3r.
