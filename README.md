@@ -21,7 +21,7 @@ Before running the script, ensure you have the following installed:
 ## 🚀 Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/dipuhasan404/RconFusion.git](https://github.com/dipuhasan404/RconFusion.git)
+   git clone https://github.com/dipuhasan404/ReconFusion.git
    cd RconFusion
 Give execution permissions:
 
