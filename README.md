@@ -16,6 +16,8 @@ ReconFusion is a lightweight Bash-based reconnaissance tool designed to automate
 
 ## 🧠 What I Learned
 
+![Demo](demo.png)
+
 - Bash scripting automation
 - Recon workflow design
 - Data parsing and filtering
