@@ -1,6 +1,6 @@
-# RconFusion Engine 🚀
+# ReconFusion Engine 🚀
 
-RconFusion is a lightweight Bash-based reconnaissance tool designed to automate subdomain enumeration and attack surface analysis. It integrates multiple industry-standard tools and provides a clean, visual CLI experience.
+ReconFusion is a lightweight Bash-based reconnaissance tool designed to automate subdomain enumeration and attack surface analysis. It integrates multiple industry-standard tools and provides a clean, visual CLI experience.
 
 ### 📺 Bash Scripts Demo
 ![Demo Screen](demo.png)
@@ -22,7 +22,7 @@ Before running the script, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/dipuhasan404/ReconFusion.git
-   cd RconFusion
+   cd ReconFusion
 Give execution permissions:
 
 Bash
