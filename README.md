@@ -8,9 +8,7 @@ ReconFusion is a lightweight Bash-based reconnaissance tool designed to automate
 - High-value endpoint filtering
 - Frequency-based target correlation
 - Clean CLI interface with smooth output
-<p align="center">
-  <img src="demo.png" alt="RconFusion Demo" width="600">
-</p>
+
 ## 🚀 Usage
 
 ```bash
@@ -18,7 +16,9 @@ ReconFusion is a lightweight Bash-based reconnaissance tool designed to automate
 
 ## 🧠 What I Learned
 
-![Demo](demo.png)
+<p align="center">
+  <img src="demo.png" alt="RconFusion Demo" width="600">
+</p>
 
 - Bash scripting automation
 - Recon workflow design
