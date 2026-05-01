@@ -1,30 +1,38 @@
-# ReconFusion
+# RconFusion Engine 🚀
 
-ReconFusion is a lightweight Bash-based reconnaissance tool designed to automate subdomain discovery, live host detection, and high-value target identification.
+RconFusion is a lightweight Bash-based reconnaissance tool designed to automate subdomain enumeration and attack surface analysis. It integrates multiple industry-standard tools and provides a clean, visual CLI experience.
 
-## 🔥 Features
-- Multi-source subdomain enumeration
-- Live host detection using HTTP validation
-- High-value endpoint filtering
-- Frequency-based target correlation
-- Clean CLI interface with smooth output
+### 📺 Bash Scripts Demo
+![Demo Screen](demo.png)
 
+## 🌟 Key Features
+*   **Multi-Source Discovery**: Combines results from Subfinder, Assetfinder, and Sublist3r.
+*   **Intelligent Filtering**: Automatically identifies high-value targets (Admin panels, APIs, Dev environments).
+*   **Live Host Probing**: Built-in HTTP status code checker (200, 301, 302).
+*   **Visual UX**: Real-time progress spinners and formatted reporting using `column`.
 
-<div align="center">
-  <h3>Bash Scripts Demo</h3>
-  <img src="demo.png" alt="RconFusion Demo" width="700">
-</div>
-
+## 🛠️ Prerequisites
+Before running the script, ensure you have the following installed:
+*   [Subfinder](https://github.com/projectdiscovery/subfinder)
+*   [Assetfinder](https://github.com/tomnomnom/assetfinder)
+*   [Sublist3r](https://github.com/aboul3la/Sublist3r)
+*   `curl`, `awk`, `column`
 
 ## 🚀 Usage
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/RconFusion.git](https://github.com/YOUR_USERNAME/RconFusion.git)
+   cd RconFusion
+Give execution permissions:
 
-```bash
+Bash
+   chmod +x reconfusion.sh
+Run the engine:
+
+Bash
 ./reconfusion.sh example.com
 
-## 🧠 What I Learned
 
-
-- Bash scripting automation
-- Recon workflow design
-- Data parsing and filtering
-- CLI tool development
+## 📂 Output Structure
+*   `data/`: Raw subdomain lists and alive host logs.
+*   `final/`: High-value targets and frequency analysis.
