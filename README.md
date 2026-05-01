@@ -4,7 +4,7 @@ ReconFusion is a lightweight Bash-based reconnaissance tool designed to automate
 
 ## 📺 Demo
 <!-- Replace the link below with your asciinema link once you record it! -->
-[![asciicast] (https://asciinema.org/connect/10a0744b-5fea-473d-b03b-f8785c62526d)
+[![asciicast] (https://asciinema.org/connect/10a0744b-5fea-473d-b03b-f8785c62526d)]
 
 ## 🌟 Key Features
 *   **Multi-Source Discovery**: Combines results from Subfinder, Assetfinder, and Sublist3r.
