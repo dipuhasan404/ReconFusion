@@ -42,6 +42,7 @@ Run the engine against any target domain:
 
 Bash
 ./reconfusion.sh megacorpone.com
+```
 📊 Logic & Methodology
 Reconfusion was built to solve the "Silent Drop" problem. Many automated tools mark a site as "Down" if they receive a 403 Forbidden or 500 Error.
 
