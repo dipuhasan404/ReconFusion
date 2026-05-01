@@ -14,9 +14,10 @@
 
 ---
 
-## 📺 Demo
 
-[![asciicast](https://asciinema.org/a/6zduEy01RCRi9p4E.svg)](https://asciinema.org/a/6zduEy01RCRi9p4E)
+## 📸 Interface Preview
+
+![Reconfusion Engine Demo](reconfusion_demo.png)
 
 ---
 
